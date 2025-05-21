@@ -12,14 +12,16 @@ This repository contains school assignment code written for educational purposes
 
 ## 📁 Project Structure
 
-### Deel 2 – Unique Products with Random Quantity
-- The user only provides the product name.
-- Quantity is automatically assigned using a random number (1–100).
-- Duplicate product names are not allowed.
+### Deel 1 – Basic Product Management
+- A basic WPF application.
+- The user inputs a product name and quantity.
+- Products are added to a list with validation on input fields.
+- Ensures the quantity is a valid integer.
 
-🔧 **Enhancements:**
-- Use of the `Random` class
-- Duplicate checking logic
+🔧 **Key concepts:**
+- Classes and object-oriented programming
+- `List<T>` usage
+- Input validation and message dialogs
 
 ---
 
